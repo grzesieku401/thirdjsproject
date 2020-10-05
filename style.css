@@ -63,6 +63,7 @@ form input[type="email"].error,
 select.error,
 textarea.error {
     border-color: #FFA9C7;
+    background-color: darksalmon ;
 }
 
 form input[type="text"],
